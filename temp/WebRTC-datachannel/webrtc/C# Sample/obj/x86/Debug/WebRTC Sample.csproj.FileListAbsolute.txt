@@ -1,0 +1,13 @@
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\bin\x86\Debug\webrtcpassivesample.html
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\bin\x86\Debug\webrtcsample.html
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\bin\x86\Debug\WebRTC Sample.exe.config
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\bin\x86\Debug\WebRTC Sample.exe
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\bin\x86\Debug\WebRTC Sample.pdb
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\obj\x86\Debug\WebRTC Sample.csprojResolveAssemblyReference.cache
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\obj\x86\Debug\WebRTC_Sample.MainForm.resources
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\obj\x86\Debug\WebRTC_Sample.Properties.Resources.resources
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\obj\x86\Debug\WebRTC_Sample.SessionForm.resources
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\obj\x86\Debug\WebRTC_Sample.StunSettingsForm.resources
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\obj\x86\Debug\WebRTC Sample.csproj.GenerateResource.Cache
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\obj\x86\Debug\WebRTC Sample.exe
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\WebRTC-Stack-Sample-0.10\webrtc\C# Sample\obj\x86\Debug\WebRTC Sample.pdb

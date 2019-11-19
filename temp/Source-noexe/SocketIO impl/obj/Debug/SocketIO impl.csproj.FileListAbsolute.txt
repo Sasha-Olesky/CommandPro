@@ -1,0 +1,54 @@
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\SocketIOClient.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\WebSocket4Net.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\SocketIOClient.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\SocketIOClient.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\WebSocket4Net.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO impl.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO_impl.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO_impl.Form2.resources
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO_impl.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO impl.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\SocketIO Group Chat Test.exe.config
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\SocketIO Group Chat Test.exe
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\SocketIO Group Chat Test.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO Group Chat Test.exe.licenses
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO Group Chat Test.exe
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO Group Chat Test.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\SocketIO Group Chat Test.exe.manifest
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Debug\SocketIO Group Chat Test.application
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO Group Chat Test.TrustInfo.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO Group Chat Test.exe.manifest
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Debug\SocketIO Group Chat Test.application
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\SocketIO Group Chat Test.exe.config
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO Group Chat Test.exe
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO Group Chat Test.pdb
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO impl.csprojResolveAssemblyReference.cache
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO_impl.Form1.resources
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO_impl.Form2.resources
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO_impl.Properties.Resources.resources
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO impl.csproj.GenerateResource.Cache
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO Group Chat Test.exe.licenses
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\SocketIO Group Chat Test.exe.manifest
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\SocketIO Group Chat Test.application
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\SocketIO Group Chat Test.exe
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\SocketIO Group Chat Test.pdb
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\SocketIOClient.dll
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\WebSocket4Net.dll
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\SocketIOClient.pdb
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\SocketIOClient.xml
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\bin\Debug\WebSocket4Net.pdb
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO Group Chat Test.TrustInfo.xml
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO Group Chat Test.exe.manifest
+C:\Users\Aravind\Desktop\SocketIO_project\SocketIO impl\obj\Debug\SocketIO Group Chat Test.application
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\Source-noexe\SocketIO impl\obj\Debug\SocketIO impl.csprojResolveAssemblyReference.cache
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\Source-noexe\SocketIO impl\obj\Debug\SocketIO_impl.Form1.resources
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\Source-noexe\SocketIO impl\obj\Debug\SocketIO_impl.Form2.resources
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\Source-noexe\SocketIO impl\obj\Debug\SocketIO_impl.Properties.Resources.resources
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\Source-noexe\SocketIO impl\obj\Debug\SocketIO impl.csproj.GenerateResource.Cache
+D:\Projects\Upwork Projects\2017_12_30(CommandPro)\temp\Source-noexe\SocketIO impl\obj\Debug\SocketIO Group Chat Test.exe.licenses

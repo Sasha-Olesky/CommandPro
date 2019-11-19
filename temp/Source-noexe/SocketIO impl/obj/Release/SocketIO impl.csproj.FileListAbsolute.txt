@@ -1,0 +1,23 @@
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\SocketIO Group Chat Test.exe.config
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\SocketIO Group Chat Test.exe.manifest
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\SocketIO Group Chat Test.application
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\SocketIO Group Chat Test.exe
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\SocketIO Group Chat Test.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\Newtonsoft.Json.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\SocketIOClient.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\WebSocket4Net.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\Newtonsoft.Json.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\SocketIOClient.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\SocketIOClient.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\bin\Release\WebSocket4Net.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO_impl.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO_impl.Form2.resources
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO_impl.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO impl.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO Group Chat Test.exe.licenses
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO Group Chat Test.TrustInfo.xml
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO Group Chat Test.exe.manifest
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO Group Chat Test.application
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO Group Chat Test.exe
+C:\Users\Home\Documents\Visual Studio 2012\Projects\SocketIO impl\SocketIO impl\obj\Release\SocketIO Group Chat Test.pdb
